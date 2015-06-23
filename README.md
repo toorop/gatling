@@ -1,2 +1,2 @@
 # gatling
-SMTP stress toll
+SMTP stress tool
